@@ -1,10 +1,12 @@
 # KNN ALGORITHM FROM SCRATCH AND A PROJECT USING KNN CLASSIFICATION
 
 <H2>THIS REPOSITORY CONTAINS TWO PROJECTS</H3>
-<h3>1.Introduction<h3>
+<h3>1.Introduction</h3>
+
 This first file contains a Python implementation of a K-Nearest Neighbors (KNN) classifier to predict whether a person has diabetes or not, based on certain medical features. KNN is a supervised machine learning algorithm that can be used for classification or regression tasks.
 
-<h3>Dataset<h3>
+<h3>Dataset</h3>
+
 The dataset used in this project is the Pima Indians Diabetes Database from Kaggle, which contains the medical record data of Pima Indian women collected over a period of time. The dataset consists of 768 observations and 8 input features such as age, BMI, blood pressure, etc. The target variable is a binary variable indicating whether the person has diabetes or not.
 
 <h3>Implementation</h3>
